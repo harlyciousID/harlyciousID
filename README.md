@@ -3,7 +3,7 @@
 - 🔭 I am currently working in an IT company
 - 🌱 I’m currently learning LMS & IT Infrastructure
 - 😄 I'm Interested in IT Tech, Playing Music
-- 📫 How to reach me: github@harlycious.com
+
 <!--
 **harlyciousID/harlyciousID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
